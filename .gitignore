@@ -1,6 +1,5 @@
-
-#Ignore Assets folder
-assets
+#Ignore mockups folder
+mockups
 
 #Ignore local config files
 .idea/
