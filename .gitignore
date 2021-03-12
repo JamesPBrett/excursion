@@ -1,0 +1,6 @@
+
+#Ignore Assets folder
+assets
+
+#Ignore local config files
+.idea/
