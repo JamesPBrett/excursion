@@ -1,19 +1,30 @@
-/*Body styles*/
+/*base styles*/
 body {
     background-color: black;
     font-family: Verdana, sans-serif;
     text-align: center;
 }
-
-/*Header Styles*/
-header h1 {
+h1 {
     color: white;
     font-size: 50px;
     font-weight: normal;
+}
+h2 {
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+}
+p {
+    font-size: 21px;
+    color: gray;
 }
 .cta {
     color: aquamarine;
     text-decoration: underline;
     font-size: 16px;
 }
-/*Main*/
+
+footer {
+    text-align: right;
+}
+
